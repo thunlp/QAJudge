@@ -1,6 +1,6 @@
 # QAJudge
 
-Code and dataset of AAAI2020 Paper **Iteratively Questioning and Answering for Interpretable Legal Judgment Prediction**.
+Code and dataset of AAAI2020 Paper **Iteratively Questioning and Answering for Interpretable Legal Judgment Prediction**. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhongH.7101.pdf)
 
 Fork from & See frame doc at [https://github.com/haoxizhong/pytorch-worker](https://github.com/haoxizhong/pytorch-worker).
 
